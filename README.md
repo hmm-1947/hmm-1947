@@ -17,6 +17,6 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="42" height="42"/><br/>Firebase</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" width="42" height="42"/><br/>C#</td>
     <td align="center"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/RaspberryPi-Dark.svg" width="42" height="42"/><br/>RPI</td>
-    <td align="center"><img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLbe3bR664FuDxsfcdjOXG5gAy7Z1qMnF1g&amps" width="42" height="42"/><br/>ESP32</td>
+    <td align="center"><img src="https://static.cdnlogo.com/logos/e/16/espressif-systems_thumb.png" width="42" height="42"/><br/>ESP32</td>
   </tr>
 </table>
